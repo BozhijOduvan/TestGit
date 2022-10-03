@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Garasov\\source\\repos\\TestGit\\TestGit\\TestGit.csproj",
+      "projectUniqueName": "C:\\Users\\Garasov\\Source\\Repos\\TestGit2\\TestGit\\TestGit.csproj",
       "projectName": "TestGit",
-      "projectPath": "C:\\Users\\Garasov\\source\\repos\\TestGit\\TestGit\\TestGit.csproj",
+      "projectPath": "C:\\Users\\Garasov\\Source\\Repos\\TestGit2\\TestGit\\TestGit.csproj",
       "packagesPath": "C:\\Users\\Garasov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Garasov\\source\\repos\\TestGit\\TestGit\\obj\\",
+      "outputPath": "C:\\Users\\Garasov\\Source\\Repos\\TestGit2\\TestGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
