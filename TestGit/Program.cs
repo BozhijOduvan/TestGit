@@ -15,4 +15,6 @@ for (int i = 1; i <= n; i++)
         Console.WriteLine(branch.PadLeft(n + 3) + "*" + branch);
     }
 }
-
+Shed ourShed = new Shed();
+ourShed.Width = 30;
+ourShed.Height = 30;
