@@ -1,4 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System;
+using TestGit;
+
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Введите желаемое количество треугольников: ");
 int n = int.Parse(Console.ReadLine());
@@ -12,3 +15,4 @@ for (int i = 1; i <= n; i++)
         Console.WriteLine(branch.PadLeft(n + 3) + "*" + branch);
     }
 }
+
